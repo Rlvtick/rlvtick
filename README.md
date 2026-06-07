@@ -12,7 +12,6 @@
   <a href="mailto:moreno.musadat@gmail.com">
     <img src="https://img.shields.io/badge/Email-moreno.musadat%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Rlvtick&label=Profile%20Views&color=1F6FEB&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -56,13 +55,34 @@ I am open to remote work and relocation opportunities, especially across Europe 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sqlite,fastapi,flask,git,github,vscode" />
-</p>
+---
+
+## Portfolio Snapshot
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>Machine Learning</h3>
+      <p>Classification, forecasting, NLP, model evaluation, and ranking-based decision support.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Analytics</h3>
+      <p>EDA, KPI reporting, segmentation, business analysis, and dashboard-ready insights.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Deployment</h3>
+      <p>Streamlit apps, FastAPI endpoints, reusable scoring logic, and lightweight database layers.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>Business Focus</h3>
+      <p>Risk modeling, customer targeting, data quality, financial analytics, and operational intelligence.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Selected Projects
+## Featured Data Projects
 
 <table>
   <tr>
@@ -161,37 +181,20 @@ I am open to remote work and relocation opportunities, especially across Europe 
 
 ---
 
-## Repository Cards
+## Portfolio Highlights
 
 <p align="center">
-  <a href="https://github.com/Rlvtick/bank-campaign-targeting-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rlvtick&repo=bank-campaign-targeting-system&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/Rlvtick/Credit-Risk-Classification-idx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rlvtick&repo=Credit-Risk-Classification-idx&theme=transparent&hide_border=true" />
-  </a>
+  <img src="https://img.shields.io/badge/End--to--End%20ML-Bank%20Campaign%20Targeting-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Risk%20Modeling-Credit%20Risk%20Classification-FF6600?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Review%20Topic%20Modeling-2EA44F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Quality-Clinical%20Trial%20Platform-6F42C1?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rlvtick/clinical-trial-data-quality-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rlvtick&repo=clinical-trial-data-quality-platform&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/Rlvtick/Topic-Modeling-Shopee-Reviews">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rlvtick&repo=Topic-Modeling-Shopee-Reviews&theme=transparent&hide_border=true" />
-  </a>
-</p>
-
----
-
-## GitHub Snapshot
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rlvtick&show_icons=true&theme=transparent&hide_border=true&hide_title=false&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rlvtick&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Rlvtick&theme=transparent&hide_border=true" />
+  <img src="https://img.shields.io/badge/App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dashboard-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
 ---
@@ -200,14 +203,6 @@ I am open to remote work and relocation opportunities, especially across Europe 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rlvtick&theme=github-compact&hide_border=true&area=true" />
-</p>
-
----
-
-## GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rlvtick&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" />
 </p>
 
 ---
@@ -256,16 +251,6 @@ I am open to remote work and relocation opportunities, especially across Europe 
   <a href="mailto:moreno.musadat@gmail.com">
     <img src="https://img.shields.io/badge/Email-moreno.musadat%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="./dist/github-snake.svg" />
-  </picture>
 </p>
 
 <p align="center">
