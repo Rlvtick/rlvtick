@@ -61,11 +61,11 @@ I am open to remote work and relocation opportunities, especially across Europe 
   &nbsp;
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" alt="GitHub" title="GitHub" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau" title="Tableau" />
+  <img src="https://api.iconify.design/logos:tableau-icon.svg" width="48" height="48" alt="Tableau" title="Tableau" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/looker/4285F4" width="48" height="48" alt="Looker Studio" title="Looker Studio" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" title="Excel" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" width="48" height="48" alt="Excel" title="Excel" />
 </p>
 
 <p align="center">
