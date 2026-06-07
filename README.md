@@ -36,23 +36,40 @@ I am open to remote work and relocation opportunities, especially across Europe 
 
 ## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="48" height="48" alt="R" title="R" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" title="pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" title="scikit-learn" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit" title="Streamlit" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" title="FastAPI" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" title="Flask" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" title="SQLite" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" title="Jupyter" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" alt="GitHub" title="GitHub" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau" title="Tableau" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/looker/4285F4" width="48" height="48" alt="Looker Studio" title="Looker Studio" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel" title="Excel" />
+</p>
+
+<p align="center">
+  <sub>Python · R · SQL · pandas · NumPy · scikit-learn · XGBoost · Streamlit · FastAPI · Flask · SQLite · Tableau · Looker Studio · Excel · Jupyter · Git · GitHub</sub>
 </p>
 
 ---
@@ -133,6 +150,9 @@ I am open to remote work and relocation opportunities, especially across Europe 
       </p>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="50%">
       <h3>Clinical Trial Data Quality and Intelligence Platform</h3>
@@ -241,7 +261,7 @@ I am open to remote work and relocation opportunities, especially across Europe 
 
 ## Contact
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/morenomusadat/">
     <img src="https://img.shields.io/badge/LinkedIn-Moreno%20Musadat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -251,6 +271,16 @@ I am open to remote work and relocation opportunities, especially across Europe 
   <a href="mailto:moreno.musadat@gmail.com">
     <img src="https://img.shields.io/badge/Email-moreno.musadat%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="./dist/github-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">
